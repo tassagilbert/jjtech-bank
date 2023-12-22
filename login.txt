@@ -1,0 +1,3 @@
+users can login with email and password
+users can login with mobile and OTP
+users can login with face recognition
